@@ -14,7 +14,8 @@ The Casper sessions started in late October 2018. This repository is for the sli
 | 6 | 30 November 2018 | Equivocation, integer consensus | [Minimal CBC Casper](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf) | [recording pt. 1](https://www.youtube.com/watch?v=UR4wsK0yBnA&index=6&list=PLniEJXpXl6-p2IeiDokPqcZ4usjKAdPkZ), [recording pt. 2](https://www.youtube.com/watch?v=hkFrDLQd_yk&list=PLniEJXpXl6-p2IeiDokPqcZ4usjKAdPkZ&index=7) |
 | 7 | 07 December 2018 | Liveness, safety, Casper message as Rholang term | [Casper message as Rholang term (need link)] | [recording](https://www.youtube.com/watch?v=-WmYAyCXqLQ) |
 | 8 | 21 December 2018 | Casper blockchain consensus, GHOST rule, FLP impossibility, Casanova | [Casper TFG paper](https://github.com/ethereum/research/blob/master/papers/CasperTFG/CasperTFG.pdf), [Casanova](https://export.arxiv.org/abs/1812.02232) | ... |
-| 9 | 28 December 2018 | ... | ... | ... |
+| 9 | 04 January 2019 | ... | ... | ... |
+
 
 # Resources
 
